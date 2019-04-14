@@ -1,5 +1,7 @@
 title: Optimal Transport & Information Geometry Reading Course Spring 2019
+
 logo: Transport-plan.svg
+
 # Course Outline
 
 We are doing a reading course on optimal transport in the context of graphs and its ties with information geometry. A list of possible papers can be found [here.](https://www.math.ucdavis.edu/~saito/data/acha.read.s19/) What follows are a list of relevant papers beyond these. When it is your week to present, please add any relevant papers to the list.
