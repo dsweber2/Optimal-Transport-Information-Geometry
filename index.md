@@ -5,7 +5,7 @@ We are doing a reading course on optimal transport in the context of graphs and 
 ### Meeting time: Fridays at 1:30pm, 2240 MSB
 
 ## [April 12th, and 19th](https://doi.org/10.1109/MSP.2017.2695801): Optimal Mass Transport: Signal processing and machine-learning applications
-Presenter: Yiqun Shao
+*Presenter*: Yiqun Shao
 ### Relevant Papers: 
 [38, Otto, 2001](https://doi.org/10.1081/PDE-100002243): the paper that presented the 2-Wasserstein space as a Riemannian metric derived from a Variational problem.
 
@@ -14,28 +14,28 @@ Presenter: Yiqun Shao
 [Santambrogio 2015](https://doi.org/10.1007/978-3-319-20828-2): Optimal transport for the applied mathematician. Good reference book for further reading.
 
 ## [April 19th](https://doi.org/10.1137/17M1132665): Quadratically-Regularized Optimal Transport on Graphs
-Presenter: Shaofeng Deng
+*Presenter*: Shaofeng Deng
 ### Relevant Papers:
 
 ## [April 26th](https://papers.nips.cc/paper/4927-sinkhorn-distances-lightspeed-computation-of-optimal-transport): Sinkhorn Distances: Lightspeed Computation of Optimal Transportation Distances
-Presenter: Dong Min Roh
+*Presenter*: Dong Min Roh
 ### Relevant Papers:
 
 
 ## [The Future](https://doi.org/10.1007/s41884-018-0002-8): Information geometry connecting Wasserstein distance and Kullback–Leibler divergence via the entropy-relaxed transportation problem
-Presenter: Haolin Chen
+*Presenter*: Haolin Chen
 ### Relevant Papers:
 
 
 ## [The Future](https://doi.org/10.1007/s41884-018-0002-8): Information Geometry for Regularized Optimal Transport and Barycenters of Patterns
-Presenter: David Weber
+*Presenter*: David Weber
 ### Relevant Papers:
 [Amari 2016](https://doi.org/10.1007/978-4-431-55978-8) Recent reference on information geometry for machine learning by Amari.
 
 ## [The Future](https://arxiv.org/abs/1806.01364): The data-driven Schroedinger bridge
-Presenter: Haotian Li
+*Presenter*: Haotian Li
 ### Relevant Papers:
 
 ## [The Future](https://doi.org/10.1007/s00205-017-1192-2): Optimal Micropatterns in 2D Transport Networks and Their Relation to Image Inpainting
-Presenter: Theodore Eberts
+*Presenter*: Theodore Eberts
 ### Relevant Papers:
