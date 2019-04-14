@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Course Outline
 
-You can use the [editor on GitHub](https://github.com/dsweber2/optimalTransportInfoGeo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are doing a reading course on optimal transport in the context of graphs and its ties with information geometry. A list of possible papers can be found [here.](https://www.math.ucdavis.edu/~saito/data/acha.read.s19/) What follows are a list of relevant papers beyond these. When it is your week to present, please add any relevant papers to the list.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Meeting time: Fridays at 1:30pm, 2240 MSB
 
-### Markdown
+## [April 12th, and 19th](https://doi.org/10.1109/MSP.2017.2695801): Optimal Mass Transport: Signal processing and machine-learning applications
+Presenter: Yiqun Shao
+### Relevant Papers: 
+[38, Otto, 2001](https://doi.org/10.1081/PDE-100002243): the paper that presented the 2-Wasserstein space as a Riemannian metric derived from a Variational problem.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[40, Park et al, 2018](https://doi.org/10.1016/j.acha.2017.02.002)([Arxiv](https://arxiv.org/abs/1507.05936]): The paper that transforms optimal transport into a Euclidian space in 1D via preserving distances to a reference distribution.
 
-```markdown
-Syntax highlighted code block
+[Santambrogio 2015](https://doi.org/10.1007/978-3-319-20828-2): Optimal transport for the applied mathematician. Good reference book for further reading.
 
-# Header 1
-## Header 2
-### Header 3
+## [April 19th](https://doi.org/10.1137/17M1132665): Quadratically-Regularized Optimal Transport on Graphs
+Presenter: Shaofeng Deng
+### Relevant Papers:
 
-- Bulleted
-- List
+## [April 26th](https://papers.nips.cc/paper/4927-sinkhorn-distances-lightspeed-computation-of-optimal-transport): Sinkhorn Distances: Lightspeed Computation of Optimal Transportation Distances
+Presenter: Dong Min Roh
+### Relevant Papers:
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## [The Future](https://doi.org/10.1007/s41884-018-0002-8): Information geometry connecting Wasserstein distance and Kullback–Leibler divergence via the entropy-relaxed transportation problem
+Presenter: Haolin Chen
+### Relevant Papers:
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## [The Future](https://doi.org/10.1007/s41884-018-0002-8): Information Geometry for Regularized Optimal Transport and Barycenters of Patterns
+Presenter: David Weber
+### Relevant Papers:
+[Amari 2016](https://doi.org/10.1007/978-4-431-55978-8) Recent reference on information geometry for machine learning by Amari.
 
-### Jekyll Themes
+## [The Future](https://arxiv.org/abs/1806.01364): The data-driven Schroedinger bridge
+Presenter: Haotian Li
+### Relevant Papers:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dsweber2/optimalTransportInfoGeo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## [The Future](https://doi.org/10.1007/s00205-017-1192-2): Optimal Micropatterns in 2D Transport Networks and Their Relation to Image Inpainting
+Presenter: Theodore Eberts
+### Relevant Papers:
