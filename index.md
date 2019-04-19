@@ -13,6 +13,12 @@ We are doing a reading course on optimal transport in the context of graphs and 
 
 [Santambrogio 2015](https://doi.org/10.1007/978-3-319-20828-2): Optimal transport for the applied mathematician. Good reference book for further reading.
 
+[50, W. Wang, D. Slepcev, S. Basu, J. A. Ozolek, and G. K. Rohde](https://link.springer.com/content/pdf/10.1007%2Fs11263-012-0566-z.pdf) “A linear opti- mal transportation framework for quantifying and visualizing variations in sets of images,” Int. J. Comput. Vision, vol. 101, no. 2, pp. 254–269, 2013.
+
+[14, M. Cuturi](https://arxiv.org/pdf/1306.0895.pdf) “Sinkhorn distances: Lightspeed computation of optimal trans- port,” in Advances in Neural Information Processing Systems, C. J. C. Burges, L. Bottou, M. Welling, Z. Ghahramani, and K. Q. Weinberger, Eds. Red Hook, NY: Curran Associates, 2013, pp. 2292–2300.
+
+[26, S. Kolouri and G. K. Rohde](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kolouri_Transport-Based_Single_Frame_2015_CVPR_paper.pdf) “Transport-based single frame super resolution of very low resolution face images,” in Proc. IEEE Conf. on Computer Vision and Pattern Recognition, 2015, pp. 4876–4884.
+
 ## [April 19th](https://doi.org/10.1137/17M1132665): Quadratically-Regularized Optimal Transport on Graphs
 *Presenter*: Shaofeng Deng
 ### Relevant Papers:
