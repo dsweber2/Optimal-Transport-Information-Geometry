@@ -19,11 +19,11 @@ We are doing a reading course on optimal transport in the context of graphs and 
 
 [26, S. Kolouri and G. K. Rohde](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Kolouri_Transport-Based_Single_Frame_2015_CVPR_paper.pdf) “Transport-based single frame super resolution of very low resolution face images”. Single frame superresolution using PCA on transport map.
 
-## [April 19th](https://doi.org/10.1137/17M1132665): Quadratically-Regularized Optimal Transport on Graphs
+## [April 26th](https://doi.org/10.1137/17M1132665): Quadratically-Regularized Optimal Transport on Graphs
 *Presenter*: Shaofeng Deng
 ### Relevant Papers:
 
-## [April 26th](https://papers.nips.cc/paper/4927-sinkhorn-distances-lightspeed-computation-of-optimal-transport): Sinkhorn Distances: Lightspeed Computation of Optimal Transportation Distances
+## [April 3rd](https://papers.nips.cc/paper/4927-sinkhorn-distances-lightspeed-computation-of-optimal-transport): Sinkhorn Distances: Lightspeed Computation of Optimal Transportation Distances
 *Presenter*: Dong Min Roh
 ### Relevant Papers:
 
