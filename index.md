@@ -22,6 +22,11 @@ We are doing a reading course on optimal transport in the context of graphs and 
 ## [April 26th](https://doi.org/10.1137/17M1132665): Quadratically-Regularized Optimal Transport on Graphs
 *Presenter*: Shaofeng Deng
 ### Relevant Papers:
+[D. Knowles](https://cs.stanford.edu/people/davidknowles/lagrangian_duality.pdf) Lagrangian Duality for Dummies!
+
+[Davis, T.A., 2011](https://pdfs.semanticscholar.org/e560/62bcea9184bebf26cfe4c46d72022198e6e6.pdf) This paper shows how to update the pseudo inverse of a graph Laplacian given a rank-1 change via Cholesky factorization.
+
+[Graph Laplacian](http://www.cis.upenn.edu/~cis515/cis515-14-graphlap.pdf) A good tutorial on graph laplacian.
 
 ## [April 3rd](https://papers.nips.cc/paper/4927-sinkhorn-distances-lightspeed-computation-of-optimal-transport): Sinkhorn Distances: Lightspeed Computation of Optimal Transportation Distances
 *Presenter*: Dong Min Roh
