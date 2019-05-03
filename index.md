@@ -31,6 +31,9 @@ We are doing a reading course on optimal transport in the context of graphs and 
 ## [May 3rd](https://papers.nips.cc/paper/4927-sinkhorn-distances-lightspeed-computation-of-optimal-transport): Sinkhorn Distances: Lightspeed Computation of Optimal Transportation Distances
 *Presenter*: Dong Min Roh
 ### Relevant Papers:
+[T. Cover, J. Thomas; CH.2](http://www.cs-114.org/wp-content/uploads/2015/01/Elements_of_Information_Theory_Elements.pdf) Introduction to Entropy
+
+[P. Knight](http://www.cerfacs.fr/algor/reports/2006/TR_PA_06_42.pdf) Sinkhorn-Knopp Algorithm
 
 
 ## [May 17th](https://doi.org/10.1007/s41884-018-0002-8): Information geometry connecting Wasserstein distance and Kullback–Leibler divergence via the entropy-relaxed transportation problem
