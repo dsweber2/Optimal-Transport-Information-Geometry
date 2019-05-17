@@ -41,7 +41,7 @@ We are doing a reading course on optimal transport in the context of graphs and 
 ### Relevant Papers:
 
 
-## [The Future](https://doi.org/10.1007/s41884-018-0002-8): Information Geometry for Regularized Optimal Transport and Barycenters of Patterns
+## [May 24th](https://doi.org/10.1007/s41884-018-0002-8): Information Geometry for Regularized Optimal Transport and Barycenters of Patterns
 *Presenter*: David Weber
 ### Relevant Papers:
 [Amari 2016](https://doi.org/10.1007/978-4-431-55978-8) Recent reference on information geometry for machine learning by Amari.
