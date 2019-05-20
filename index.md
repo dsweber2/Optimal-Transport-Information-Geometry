@@ -53,3 +53,8 @@ We are doing a reading course on optimal transport in the context of graphs and 
 ## [The Future](https://doi.org/10.1007/s00205-017-1192-2): Optimal Micropatterns in 2D Transport Networks and Their Relation to Image Inpainting
 *Presenter*: Theodore Eberts
 ### Relevant Papers:
+
+
+## [The Future](https://arxiv.org/abs/1311.4581): Application of the Wasserstein metric to seismic signals
+*Presenter*: Bohan Zhou
+### Relevant Papers:
