@@ -46,6 +46,9 @@ We are doing a reading course on optimal transport in the context of graphs and 
 ### Relevant Papers:
 [Amari 2016](https://doi.org/10.1007/978-4-431-55978-8) Recent reference on information geometry for machine learning by Amari.
 
+[Determinant of Block Matrices](https://en.wikipedia.org/wiki/Determinant#Block_matrices) used in the proof of convexity of $D_\lambda$
+
+[Sherman-Morrison formula](https://en.wikipedia.org/wiki/Sherman%E2%80%93Morrison_formula) used in the proof of convexity of $D_\lambda$
 ## [The Future](https://arxiv.org/abs/1806.01364): The data-driven Schroedinger bridge
 *Presenter*: Haotian Li
 ### Relevant Papers:
