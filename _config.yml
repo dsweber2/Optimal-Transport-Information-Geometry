@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Optimal Transport & Information Geometry Reading Course Spring 2019
 logo: Transport-plan.svg
+mathjax: true
