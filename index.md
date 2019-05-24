@@ -65,6 +65,6 @@ We are doing a reading course on optimal transport in the context of graphs and 
 ### Relevant Papers:
 
 
-## [The Future](https://arxiv.org/abs/1311.4581): Application of the Wasserstein metric to seismic signals
+## [June 19th](https://arxiv.org/abs/1311.4581): Application of the Wasserstein metric to seismic signals
 *Presenter*: Bohan Zhou
 ### Relevant Papers:
