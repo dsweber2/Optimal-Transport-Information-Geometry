@@ -40,6 +40,7 @@ We are doing a reading course on optimal transport in the context of graphs and 
 *Presenter*: Haolin Chen
 ### Relevant Papers:
 [Amari 2016](https://link.springer.com/content/pdf/10.1007/978-4-431-55978-8.pdf): Information geometry and its applications
+
 [Cuturi 2013](https://papers.nips.cc/paper/4927-sinkhorn-distances-lightspeed-computation-of-optimal-transport.pdf): Sinkhorn distances: Lightspeed computation of optimal transport
 
 
