@@ -49,6 +49,12 @@ We are doing a reading course on optimal transport in the context of graphs and 
 [Determinant of Block Matrices](https://en.wikipedia.org/wiki/Determinant#Block_matrices) used in the proof of convexity of $D_\lambda$
 
 [Sherman-Morrison formula](https://en.wikipedia.org/wiki/Sherman%E2%80%93Morrison_formula) used in the proof of convexity of $D_\lambda$
+
+[Agueh & Carlier, 2011](https://doi.org/10.1137/100805741) ([preprint](https://www.ceremade.dauphine.fr/~carlier/AC_bary_Aug11_10.pdf)): Demonstration that the Barycenters of the Wasserstein metric are translation invariant.
+
+
+[Cuturi & Doucet, 2014](http://proceedings.mlr.press/v32/cuturi14.html): uses the C-function to compute Barycenters.
+
 ## [The Future](https://arxiv.org/abs/1806.01364): The data-driven Schroedinger bridge
 *Presenter*: Haotian Li
 ### Relevant Papers:
