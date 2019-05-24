@@ -39,6 +39,7 @@ We are doing a reading course on optimal transport in the context of graphs and 
 ## [May 17th](https://doi.org/10.1007/s41884-018-0002-8): Information geometry connecting Wasserstein distance and Kullback–Leibler divergence via the entropy-relaxed transportation problem
 *Presenter*: Haolin Chen
 ### Relevant Papers:
+[Amari 2016](https://link.springer.com/content/pdf/10.1007/978-4-431-55978-8.pdf): Information geometry and its applications
 
 
 ## [May 24th](https://doi.org/10.1007/s41884-018-0002-8): Information Geometry for Regularized Optimal Transport and Barycenters of Patterns
