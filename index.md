@@ -58,15 +58,15 @@ We are doing a reading course on optimal transport in the context of graphs and 
 
 [Cuturi & Doucet, 2014](http://proceedings.mlr.press/v32/cuturi14.html): uses the C-function to compute Barycenters.
 
-## [The Future](https://arxiv.org/abs/1806.01364): The data-driven Schroedinger bridge
+## [May 31st](https://arxiv.org/abs/1806.01364): The data-driven Schroedinger bridge
 *Presenter*: Haotian Li
+### Relevant Papers:
+
+
+## [June 19th](https://arxiv.org/abs/1311.4581): Application of the Wasserstein metric to seismic signals
+*Presenter*: Bohan Zhou
 ### Relevant Papers:
 
 ## [The Future](https://doi.org/10.1007/s00205-017-1192-2): Optimal Micropatterns in 2D Transport Networks and Their Relation to Image Inpainting
 *Presenter*: Theodore Eberts
-### Relevant Papers:
-
-
-## [The Future](https://arxiv.org/abs/1311.4581): Application of the Wasserstein metric to seismic signals
-*Presenter*: Bohan Zhou
 ### Relevant Papers:
