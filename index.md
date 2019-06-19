@@ -53,7 +53,7 @@ We are doing a reading course on optimal transport in the context of graphs and 
 
 [Sherman-Morrison formula](https://en.wikipedia.org/wiki/Sherman%E2%80%93Morrison_formula) used in the proof of convexity of $D_\lambda$
 
-[Agueh & Carlier, 2011](https://doi.org/10.1137/100805741) ([preprint](https://www.ceremade.dauphine.fr/~carlier/AC_bary_Aug11_10.pdf)): Demonstration that the Barycenters of the Wasserstein metric are translation invariant.
+[Agueh & CarlieEnr, 2011](https://doi.org/10.1137/100805741) ([preprint](https://www.ceremade.dauphine.fr/~carlier/AC_bary_Aug11_10.pdf)): Demonstration that the Barycenters of the Wasserstein metric are translation invariant.
 
 
 [Cuturi & Doucet, 2014](http://proceedings.mlr.press/v32/cuturi14.html): uses the C-function to compute Barycenters.
@@ -66,6 +66,13 @@ We are doing a reading course on optimal transport in the context of graphs and 
 ## [June 19th](https://arxiv.org/abs/1311.4581): Application of the Wasserstein metric to seismic signals
 *Presenter*: Bohan Zhou
 ### Relevant Papers:
+[Engquist_2018_Seismic_Inversion](https://arxiv.org/pdf/1810.08686.pdf): SEISMIC INVERSION AND THE DATA NORMALIZATION
+FOR OPTIMAL TRANSPORT.
+
+[Engquist_2018_Seismic_Imaging](https://arxiv.org/pdf/1808.04801.pdf): SEISMIC IMAGING AND OPTIMAL TRANSPORT.
+
+[Plessix_2006_Review](https://watermark.silverchair.com/167-2-495.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAkowggJGBgkqhkiG9w0BBwagggI3MIICMwIBADCCAiwGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMtwH_Y5dwf_sJaqarAgEQgIIB_U4AnZraIx-MqYfoRxHLqKFnXYV7KbCZ7riV5RDiHwzzVlYzMUjMNt3twlIbb2gCpnAcA9QUvWbndDlyO9hx8lq45M3Lpj9tRGNMnidH99aUCfcPrGuWomy7PgNMIGEC1Zhz4QV9rs01X6u5VDJSnVqR7lN_UJQdgaK50EOZ_wKpW2WYu4MXbiLT6puT3DxMT53gue7Z1Ox7N1L8cPJuwhwjFgHK4ARot2sO5ep1yHDH8W1cD6as3Tbv2151Yg_K_quiMCTJWbDUIQsLti3ZOy5mFhS2o-f0PkUDn3fxeg-ueWEZ0mi10kHt7ButRwiTPF1zocd1dYDxmCunu9IcfGdi3jBBqq_1TZT4aVNlxnm4V42adUvpcBIDVz6U5emlgLHflDe4IATZDdV7iL-WEiiA52HdnRHVUyPMaYW-5Vemw_BcokiQcLfLiPTJXOzfDa82m5ZdTJwB8XQc9YrrMFgUwSKhGDZwyhYsauOQ8NV2_Fh6oE3yj_3FiYuh8cMHgO4LtFABxAOuZJULH2ufq1ZzL8hOZhZ550zpaUatfF6iDXGFm-bNLWLUjGq4kCbEbI_f8YV0EWEo2ydRNaPdbyuHtQXfnY7stzycgN_XgXmh68S8rS5vOIuAEBJRUTH6opRdE0V1pUZk8kOrqYBhEeNbmfASkuRMTElZiDCm): A review of the adjoint-state method for computing the gradient
+of a functional with geophysical applications.
 
 ## [The Future](https://doi.org/10.1007/s00205-017-1192-2): Optimal Micropatterns in 2D Transport Networks and Their Relation to Image Inpainting
 *Presenter*: Theodore Eberts
