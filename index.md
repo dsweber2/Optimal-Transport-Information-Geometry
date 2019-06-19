@@ -66,19 +66,18 @@ We are doing a reading course on optimal transport in the context of graphs and 
 ## [June 19th](https://arxiv.org/abs/1311.4581): Application of the Wasserstein metric to seismic signals
 *Presenter*: Bohan Zhou
 ### Relevant Papers:
-[Engquist_2018_Seismic_Inversion](https://arxiv.org/pdf/1810.08686.pdf): SEISMIC INVERSION AND THE DATA NORMALIZATION
-FOR OPTIMAL TRANSPORT.
+[Engquist_2018_Seismic_Inversion](https://arxiv.org/pdf/1810.08686.pdf): Data normalization techs for pre-processing seismic data.
 
-[Engquist_2018_Seismic_Imaging](https://arxiv.org/pdf/1808.04801.pdf): SEISMIC IMAGING AND OPTIMAL TRANSPORT.
+[Engquist_2018_Seismic_Imaging](https://arxiv.org/pdf/1808.04801.pdf): A review for seismic inversion problem and the application of optimal transport.
 
 [Plessix_2006_Review](https://watermark.silverchair.com/167-2-495.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAkowggJGBgkqhkiG9w0BBwagggI3MIICMwIBADCCAiwGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMtwH_Y5dwf_sJaqarAgEQgIIB_U4AnZraIx-MqYfoRxHLqKFnXYV7KbCZ7riV5RDiHwzzVlYzMUjMNt3twlIbb2gCpnAcA9QUvWbndDlyO9hx8lq45M3Lpj9tRGNMnidH99aUCfcPrGuWomy7PgNMIGEC1Zhz4QV9rs01X6u5VDJSnVqR7lN_UJQdgaK50EOZ_wKpW2WYu4MXbiLT6puT3DxMT53gue7Z1Ox7N1L8cPJuwhwjFgHK4ARot2sO5ep1yHDH8W1cD6as3Tbv2151Yg_K_quiMCTJWbDUIQsLti3ZOy5mFhS2o-f0PkUDn3fxeg-ueWEZ0mi10kHt7ButRwiTPF1zocd1dYDxmCunu9IcfGdi3jBBqq_1TZT4aVNlxnm4V42adUvpcBIDVz6U5emlgLHflDe4IATZDdV7iL-WEiiA52HdnRHVUyPMaYW-5Vemw_BcokiQcLfLiPTJXOzfDa82m5ZdTJwB8XQc9YrrMFgUwSKhGDZwyhYsauOQ8NV2_Fh6oE3yj_3FiYuh8cMHgO4LtFABxAOuZJULH2ufq1ZzL8hOZhZ550zpaUatfF6iDXGFm-bNLWLUjGq4kCbEbI_f8YV0EWEo2ydRNaPdbyuHtQXfnY7stzycgN_XgXmh68S8rS5vOIuAEBJRUTH6opRdE0V1pUZk8kOrqYBhEeNbmfASkuRMTElZiDCm): A review of the adjoint-state method for computing the gradient
 of a functional with geophysical applications.
 
-[Yang_2017_Analysis](https://www.researchgate.net/profile/Yunan_Yang/publication/316883585_Analysis_of_optimal_transport_and_related_misfit_functions_in_FWI/links/59dcbb40458515e9ab4d6b1e/Analysis-of-optimal-transport-and-related-misfit-functions-in-FWI.pdf): Analysis of optimal transport and related misfit functions in full-waveform inversion.
+[Yang_2017_Analysis](https://www.researchgate.net/profile/Yunan_Yang/publication/316883585_Analysis_of_optimal_transport_and_related_misfit_functions_in_FWI/links/59dcbb40458515e9ab4d6b1e/Analysis-of-optimal-transport-and-related-misfit-functions-in-FWI.pdf): Analysis of misfit functions.
 
-[Engquist_2013_Application](https://www.math.ucdavis.edu/~saito/data/acha.read.s19/engquist-froese_wasserstein-metric-for-seismic-signals.pdf): APPLICATION OF THE WASSERSTEIN METRIC TO SEISMIC SIGNALS.
+[Engquist_2013_Application](https://www.math.ucdavis.edu/~saito/data/acha.read.s19/engquist-froese_wasserstein-metric-for-seismic-signals.pdf): Basic property to be satisfied before applying Wasserstein distance.
 
-[Bradley_2013_adjoint method](https://cs.stanford.edu/~ambrad/adjoint_tutorial.pdf): PDE-constrained optimization and the adjoint method.
+[Bradley_2013_adjoint method](https://cs.stanford.edu/~ambrad/adjoint_tutorial.pdf): A manual for PDE-constrained optimization and the adjoint method from the beginning.
 
 
 
