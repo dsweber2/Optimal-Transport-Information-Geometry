@@ -74,6 +74,14 @@ FOR OPTIMAL TRANSPORT.
 [Plessix_2006_Review](https://watermark.silverchair.com/167-2-495.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAkowggJGBgkqhkiG9w0BBwagggI3MIICMwIBADCCAiwGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMtwH_Y5dwf_sJaqarAgEQgIIB_U4AnZraIx-MqYfoRxHLqKFnXYV7KbCZ7riV5RDiHwzzVlYzMUjMNt3twlIbb2gCpnAcA9QUvWbndDlyO9hx8lq45M3Lpj9tRGNMnidH99aUCfcPrGuWomy7PgNMIGEC1Zhz4QV9rs01X6u5VDJSnVqR7lN_UJQdgaK50EOZ_wKpW2WYu4MXbiLT6puT3DxMT53gue7Z1Ox7N1L8cPJuwhwjFgHK4ARot2sO5ep1yHDH8W1cD6as3Tbv2151Yg_K_quiMCTJWbDUIQsLti3ZOy5mFhS2o-f0PkUDn3fxeg-ueWEZ0mi10kHt7ButRwiTPF1zocd1dYDxmCunu9IcfGdi3jBBqq_1TZT4aVNlxnm4V42adUvpcBIDVz6U5emlgLHflDe4IATZDdV7iL-WEiiA52HdnRHVUyPMaYW-5Vemw_BcokiQcLfLiPTJXOzfDa82m5ZdTJwB8XQc9YrrMFgUwSKhGDZwyhYsauOQ8NV2_Fh6oE3yj_3FiYuh8cMHgO4LtFABxAOuZJULH2ufq1ZzL8hOZhZ550zpaUatfF6iDXGFm-bNLWLUjGq4kCbEbI_f8YV0EWEo2ydRNaPdbyuHtQXfnY7stzycgN_XgXmh68S8rS5vOIuAEBJRUTH6opRdE0V1pUZk8kOrqYBhEeNbmfASkuRMTElZiDCm): A review of the adjoint-state method for computing the gradient
 of a functional with geophysical applications.
 
+[Yang_2017_Analysis](https://www.researchgate.net/profile/Yunan_Yang/publication/316883585_Analysis_of_optimal_transport_and_related_misfit_functions_in_FWI/links/59dcbb40458515e9ab4d6b1e/Analysis-of-optimal-transport-and-related-misfit-functions-in-FWI.pdf): Analysis of optimal transport and related misfit functions in full-waveform inversion.
+
+[Engquist_2013_Application](https://www.math.ucdavis.edu/~saito/data/acha.read.s19/engquist-froese_wasserstein-metric-for-seismic-signals.pdf): APPLICATION OF THE WASSERSTEIN METRIC TO SEISMIC SIGNALS.
+
+[Bradley_2013_adjoint method](https://cs.stanford.edu/~ambrad/adjoint_tutorial.pdf): PDE-constrained optimization and the adjoint method.
+
+
+
 ## [The Future](https://doi.org/10.1007/s00205-017-1192-2): Optimal Micropatterns in 2D Transport Networks and Their Relation to Image Inpainting
 *Presenter*: Theodore Eberts
 ### Relevant Papers:
