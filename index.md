@@ -1,6 +1,6 @@
 # Course Outline
 
-We are doing a reading course on optimal transport in the context of graphs and its ties with information geometry. A list of possible papers can be found [here.](https://www.math.ucdavis.edu/~saito/data/acha.read.s19/) What follows are a list of relevant papers beyond these. When it is your week to present, please add any relevant papers to the list. To add your references, [edit here](https://github.com/dsweber2/optimalTransportInfoGeo/edit/master/index.md).
+We are doing a reading course on optimal transport in the context of graphs and its ties with information geometry. A list of possible papers can be found [here](https://www.math.ucdavis.edu/~saito/data/acha.read.s19/) or for the summer, [here](https://www.math.ucdavis.edu/~saito/data/acha.read.f19/). What follows are a list of relevant papers beyond these. When it is your week to present, please add any relevant papers to the list. To add your references, [edit here](https://github.com/dsweber2/optimalTransportInfoGeo/edit/master/index.md).
 
 ### Meeting time: Fridays at 1:30pm, 2240 MSB
 
@@ -81,6 +81,10 @@ of a functional with geophysical applications.
 
 
 
-## [The Future](https://doi.org/10.1007/s00205-017-1192-2): Optimal Micropatterns in 2D Transport Networks and Their Relation to Image Inpainting
-*Presenter*: Theodore Eberts
+## [The Future](https://www.math.ucla.edu/~wotaoyin/papers/parallel_earth_mover_dist.html): A Parallel Method for Earth Mover’s Distance
+*Presenter*: Haotian Li
+### Relevant Papers:
+
+## [August 9th](https://link.springer.com/article/10.1007%2Fs41884-018-0012-6): Logarithmic divergences from optimal transport and Rényi geometry
+*Presenter*: David Weber
 ### Relevant Papers:
