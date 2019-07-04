@@ -80,11 +80,13 @@ of a functional with geophysical applications.
 [Bradley_2013_adjoint method](https://cs.stanford.edu/~ambrad/adjoint_tutorial.pdf): A manual for PDE-constrained optimization and the adjoint method from the beginning.
 
 
+## [August 9th](https://link.springer.com/article/10.1007%2Fs41884-018-0012-6): Logarithmic divergences from optimal transport and Rényi geometry
+*Presenter*: David Weber
+### Relevant Papers:
+
+
 
 ## [August 23rd](https://www.math.ucla.edu/~wotaoyin/papers/parallel_earth_mover_dist.html): A Parallel Method for Earth Mover’s Distance
 *Presenter*: Haotian Li
 ### Relevant Papers:
 
-## [August 9th](https://link.springer.com/article/10.1007%2Fs41884-018-0012-6): Logarithmic divergences from optimal transport and Rényi geometry
-*Presenter*: David Weber
-### Relevant Papers:
