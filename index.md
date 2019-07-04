@@ -81,7 +81,7 @@ of a functional with geophysical applications.
 
 
 
-## [The Future](https://www.math.ucla.edu/~wotaoyin/papers/parallel_earth_mover_dist.html): A Parallel Method for Earth Mover’s Distance
+## [August 23rd](https://www.math.ucla.edu/~wotaoyin/papers/parallel_earth_mover_dist.html): A Parallel Method for Earth Mover’s Distance
 *Presenter*: Haotian Li
 ### Relevant Papers:
 
