@@ -79,14 +79,19 @@ of a functional with geophysical applications.
 
 [Bradley_2013_adjoint method](https://cs.stanford.edu/~ambrad/adjoint_tutorial.pdf): A manual for PDE-constrained optimization and the adjoint method from the beginning.
 
-
-## [August 9th](https://link.springer.com/article/10.1007%2Fs41884-018-0012-6): Logarithmic divergences from optimal transport and Rényi geometry
-*Presenter*: David Weber
+## [August 2nd and 9th](https://link.springer.com/article/10.1007/s13373-017-0101-1): {Euclidean, metric, and Wasserstein} gradient flows:an overview
+*Presenter*: Bohan Zhou
 ### Relevant Papers:
 
+## [August 16th](https://link.springer.com/chapter/10.1007%2F978-3-7091-1785-9_1): The derivation of swarming models: Mean-field limit and Wasserstein distances
+*Presenter*: Naoki Saito
+### Relevant Papers:
 
 
 ## [August 23rd](https://www.math.ucla.edu/~wotaoyin/papers/parallel_earth_mover_dist.html): A Parallel Method for Earth Mover’s Distance
 *Presenter*: Haotian Li
 ### Relevant Papers:
 
+## [August 30th](https://link.springer.com/article/10.1007%2Fs41884-018-0012-6): Logarithmic divergences from optimal transport and Rényi geometry
+*Presenter*: David Weber
+### Relevant Papers:
