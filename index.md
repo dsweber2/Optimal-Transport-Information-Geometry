@@ -83,13 +83,13 @@ of a functional with geophysical applications.
 *Presenter*: Bohan Zhou
 ### Relevant Papers:
 
-[Santambrogio_2017_Review](https://link.springer.com/article/10.1007/s13373-017-0101-1): {Euclidean, metric, and Wasserstein} gradient flows:an overview.
+[Santambrogio_2017_Review](https://link.springer.com/article/10.1007/s13373-017-0101-1): Gradient flow in Euclidean, metric, Waaserstein space giving three generic functionals including the heat equation, porous medium equation, Fokker-Planck equation and etc.
 
-[Ambrosio_2008_Gradient_Flow](https://www-dimat.unipv.it/savare/research/optimal_transportation/Introduction.pdf): Gradient flows: in metric spaces and in the space of probability measures.
+[Ambrosio_2008_Gradient_Flow](https://www-dimat.unipv.it/savare/research/optimal_transportation/Introduction.pdf): The Bible in gradient flow.
 
-[Otto_2001_Geometry](https://www.tandfonline.com/doi/pdf/10.1081/PDE-100002243): The geometry of dissipative evolution equations: the porous medium equation.
+[Otto_2001_Geometry](https://www.tandfonline.com/doi/pdf/10.1081/PDE-100002243): Gradient flow strcture of porous medium equation. Compare the traditional approach to gradient flow of density with respect to L^2 norm of metric derivatives, with the new approach to gradient flow of density with repsect to Wasserstein distance, or equivalently the gradient flow of Lagrangian velocity with respect to L^2 norm.
 
-[Jordan_1998_JKO](https://epubs.siam.org/doi/pdf/10.1137/S0036141096303359): The variational formulation of the Fokker--Planck equation.
+[Jordan_1998_JKO](https://epubs.siam.org/doi/pdf/10.1137/S0036141096303359): JKO scheme is a discrete scheme, rising from Backwards Euler method, to show the weak solution exists systematically. Morevoer, the interpolated solution converges and it satisfies Fokker-Planck Equations in distributional sense.
 
 ## [August 16th](https://link.springer.com/chapter/10.1007%2F978-3-7091-1785-9_1): The derivation of swarming models: Mean-field limit and Wasserstein distances
 *Presenter*: Naoki Saito
