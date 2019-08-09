@@ -83,6 +83,14 @@ of a functional with geophysical applications.
 *Presenter*: Bohan Zhou
 ### Relevant Papers:
 
+[Santambrogio_2017_Review](https://link.springer.com/article/10.1007/s13373-017-0101-1): {Euclidean, metric, and Wasserstein} gradient flows:an overview.
+
+[Ambrosio_2008_Gradient_Flow](https://www-dimat.unipv.it/savare/research/optimal_transportation/Introduction.pdf): Gradient flows: in metric spaces and in the space of probability measures.
+
+[Otto_2001_Geometry](https://www.tandfonline.com/doi/pdf/10.1081/PDE-100002243): The geometry of dissipative evolution equations: the porous medium equation.
+
+[Jordan_1998_JKO](https://epubs.siam.org/doi/pdf/10.1137/S0036141096303359): The variational formulation of the Fokker--Planck equation.
+
 ## [August 16th](https://link.springer.com/chapter/10.1007%2F978-3-7091-1785-9_1): The derivation of swarming models: Mean-field limit and Wasserstein distances
 *Presenter*: Naoki Saito
 ### Relevant Papers:
