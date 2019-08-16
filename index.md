@@ -91,7 +91,7 @@ of a functional with geophysical applications.
 
 [Jordan_1998_JKO](https://epubs.siam.org/doi/pdf/10.1137/S0036141096303359): JKO scheme is a discrete scheme, rising from Backwards Euler method, to show the weak solution exists systematically. Morevoer, the interpolated solution converges and it satisfies Fokker-Planck Equations in distributional sense.
 
-## [August 16th](https://link.springer.com/chapter/10.1007%2F978-3-7091-1785-9_1): The derivation of swarming models: Mean-field limit and Wasserstein distances
+## [August 16th](https://papers.nips.cc/paper/6479-optimal-spectral-transportation-with-application-to-music-transcription): Optimal Spectral transportation with application to music transcription
 *Presenter*: Naoki Saito
 ### Relevant Papers:
 
