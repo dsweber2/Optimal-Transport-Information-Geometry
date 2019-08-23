@@ -91,15 +91,15 @@ of a functional with geophysical applications.
 
 [Jordan_1998_JKO](https://epubs.siam.org/doi/pdf/10.1137/S0036141096303359): JKO scheme is a discrete scheme, rising from Backwards Euler method, to show the weak solution exists systematically. Morevoer, the interpolated solution converges and it satisfies Fokker-Planck Equations in distributional sense.
 
-## [August 16th](https://papers.nips.cc/paper/6479-optimal-spectral-transportation-with-application-to-music-transcription): Optimal Spectral transportation with application to music transcription
+## [August 16th and 23rd](https://papers.nips.cc/paper/6479-optimal-spectral-transportation-with-application-to-music-transcription): Optimal Spectral transportation with application to music transcription
 *Presenter*: Naoki Saito
 ### Relevant Papers:
 
 
-## [August 23rd](https://www.math.ucla.edu/~wotaoyin/papers/parallel_earth_mover_dist.html): A Parallel Method for Earth Mover’s Distance
+## [August 23rd and September 6th](https://www.math.ucla.edu/~wotaoyin/papers/parallel_earth_mover_dist.html): A Parallel Method for Earth Mover’s Distance
 *Presenter*: Haotian Li
 ### Relevant Papers:
 
-## [August 30th](https://link.springer.com/article/10.1007%2Fs41884-018-0012-6): Logarithmic divergences from optimal transport and Rényi geometry
+## [September 6th](https://link.springer.com/article/10.1007%2Fs41884-018-0012-6): Logarithmic divergences from optimal transport and Rényi geometry
 *Presenter*: David Weber
 ### Relevant Papers:
